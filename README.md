@@ -43,3 +43,13 @@ Mantenha domínio e hospedagem em contas do proprietário do comércio, com aces
 - Dados locais protegidos contra armazenamento indisponível. Nenhum backend.
 - Verificados no navegador: cálculo de porções, filtros/busca, receita, persistência após recarga, menu e carrossel em 390 px. Sem erros de console nos fluxos observados.
 - Fotos ainda ilustrativas. Confirmar horários e revisar catálogo antes de publicar.
+
+## Logo, fotos do Instagram e receitas
+O logo foi fornecido pelo proprietário. As fotos públicas foram baixadas de @baruerisacolao em 13/10/2026 e armazenadas em assets para evitar links temporários do Instagram.
+- Banana: https://www.instagram.com/baruerisacolao/p/DdcRmhRGlpI/
+- Morango: https://www.instagram.com/baruerisacolao/p/DdUL8rCEVdh/
+- Uva: https://www.instagram.com/baruerisacolao/p/Db3lzcIGvac/
+- Mexerica: https://www.instagram.com/baruerisacolao/reel/DcTxO6QxxjE/ (imagem de capa)
+Os carrosséis completos pediram login. Tomate e alface continuam como imagens ilustrativas; não foram encontrados entre as imagens públicas acessíveis. Não houve edição das fotos ou do logo.
+A área de cozinha contém 12 receitas, filtráveis por frutas, legumes e verduras. Imagens são dos ingredientes, não dos pratos prontos. Itens de hortifruti das receitas entram na lista local; consulte disponibilidade e preços na loja.
+O arquivo recipes.js deve ser enviado junto dos demais arquivos e da pasta assets na hospedagem.
